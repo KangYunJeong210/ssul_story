@@ -1,0 +1,9 @@
+{
+  "name": "itsmine-shortwrite",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/functions": "^3.10.5"
+  }
+}
